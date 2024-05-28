@@ -6,7 +6,7 @@ echo "ENTER b VALUE: "
 read b
 
 echo "a+b= $(($a+$b))"
-echo "a-b = $(($a+$b))"
+echo "a-b = $(($a-$b))"
 echo "a*b= $(($a*$b))"
 echo "a/b= $(($a/$b))"
 
