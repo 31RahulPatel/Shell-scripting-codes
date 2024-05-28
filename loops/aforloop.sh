@@ -2,7 +2,9 @@
 
 for i in 1 2 3 4 5 6 8
 do
-echo $i
+echo -n "$i "
 done
+echo
+
 
 #output = 1 2 3 4 5 6 8
